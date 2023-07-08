@@ -1,0 +1,13 @@
+*{
+    /* margin: 0%; */
+}
+.blog{
+    background-color:goldenrod;
+    padding: 2px;
+    border: 5px solid gold;
+    box-shadow: 3px 4px 80px 2px gold;
+/* margin: 0% */
+}
+.january{
+    color: red;
+}
